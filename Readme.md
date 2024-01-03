@@ -26,4 +26,3 @@
 - `UI`폴더 안의 `ENCLoader.ui` 파일을 vscode에서 우클릭하면 Edit Qt UI File 메뉴가 나옴
 - 해당 메뉴를 선택하면 Qt Designer가 실행됨
 - Qt Designer에서 UI를 수정하고 저장하면 자동으로 `ENCLoader_ui.py` 파일이 업데이트 됨
-# PyQt-Template
